@@ -17,7 +17,6 @@ Tools we built for ourselves and shared with everyone.
 |------|------|
 | [flow](https://github.com/Facets-cloud/flow) | Turn isolated Claude sessions into a continuous working relationship. MIT. |
 | [claude-skill-tester](https://github.com/Facets-cloud/claude-skill-tester) | Test Claude Code skills programmatically — LLM-judged unit + live integration |
-| [claude-go-sdk](https://github.com/Facets-cloud/claude-go-sdk) | Go SDK for building agents on Claude Code |
 | [claude-plugin](https://github.com/Facets-cloud/claude-plugin) | Claude integration plugin |
 | [meeting-nag](https://github.com/Facets-cloud/meeting-nag) | Mac tool for unmissable Google Calendar alerts |
 
